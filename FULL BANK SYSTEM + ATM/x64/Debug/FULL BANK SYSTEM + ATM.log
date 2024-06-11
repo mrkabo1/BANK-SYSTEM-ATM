@@ -1,0 +1,4 @@
+﻿  FULL BANK SYSTEM + ATM.cpp
+C:\Users\Mr-Kabo\Desktop\FULL BANK SYSTEM + ATM\FULL BANK SYSTEM + ATM\Bank.h(52,23): warning C4267: '+=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Mr-Kabo\Desktop\FULL BANK SYSTEM + ATM\FULL BANK SYSTEM + ATM\Bank.h(354,1): warning C4715: 'getAccountBalance': not all control paths return a value
+  FULL BANK SYSTEM + ATM.vcxproj -> C:\Users\Mr-Kabo\Desktop\FULL BANK SYSTEM + ATM\x64\Debug\FULL BANK SYSTEM + ATM.exe
